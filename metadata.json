@@ -1,0 +1,8 @@
+{
+  "name": "Remix Lean60: No-Gym Fat Loss & Diet Guide (नो-जिम 60 दिन फैट बर्न)",
+  "description": "Science-backed 60-day fat loss and comprehensive diet guidance system without heavy gym workouts. Featuring personalized meal plans, calorie calculators, daily habit roadmaps, and an AI nutritionist coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
